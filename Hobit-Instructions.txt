@@ -1,4 +1,6 @@
-1. öffne ein terminal (command + space => "terminal" -> Enter)
-2. tippe "cd Documents/sleep-sim" -> Enter
-3. tippe "npm start" -> Enter
-4. Im Browser, drücke command + "+" bis das bild den Seiteninhalt füllt.
+1. öffne ein terminal (MacOSX: command + space => "terminal" -> Enter)
+2. `cd Documents`
+3. `git clone git.sr.ht/<url>`
+4. `cd Documents/final-procrastination`
+5. `npm start`
+6. Im Browser, passe das Zoomlevel an, bis das Bild den Seiteninhalt füllt.
