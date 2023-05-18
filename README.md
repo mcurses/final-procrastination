@@ -1,3 +1,4 @@
+# Hobit Instructions
 1. Öffne ein terminal (MacOSX: command + space => "terminal" -> Enter)  
     [Paste die Commands einzeln und drücke danach jeweils Enter]
 2. Navigiere zum gewünschten Ordner (z.B. `cd ~/Documents`)
