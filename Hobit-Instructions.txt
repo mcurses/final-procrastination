@@ -1,6 +1,0 @@
-1. öffne ein terminal (MacOSX: command + space => "terminal" -> Enter)
-2. `cd Documents`
-3. `git clone git.sr.ht/<url>`
-4. `cd Documents/final-procrastination`
-5. `npm start`
-6. Im Browser, passe das Zoomlevel an, bis das Bild den Seiteninhalt füllt.
